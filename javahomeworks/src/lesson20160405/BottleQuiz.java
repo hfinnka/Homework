@@ -13,8 +13,6 @@ public class BottleQuiz {
 			System.out.println("Маловато будет!");
 		}	else if (bottle == 2) {
 			System.out.println("Нее, дофига");
-		}	else if (bottle == (0 | 255)) {
-			System.out.println("Не понимаю, о чём тут речь");
 		}
 		
 
